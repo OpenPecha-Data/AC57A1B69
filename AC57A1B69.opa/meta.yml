@@ -1,0 +1,19 @@
+id: AC57A1B69
+title: Prayer to Lord Marpa, Consort and Heirs
+type: translation
+pechas:
+- ID1BD47A7
+- I24844B11
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:01:27.543710
+  last_modified_at: 2023-01-04 13:01:27.543732
+  collections:
+  - Marpa Lotsāwa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  ID1BD47A7/3FEB: '1155'
+  I24844B11/30C9: '1155'
